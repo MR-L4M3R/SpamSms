@@ -1,6 +1,6 @@
 #!/usr/bin/python2
-# Author : ./Sabila152
-# Team : Cyber Girl Indonesian( BCA - X666X )
+# Author : MR.L4M3R
+# Team : SUMBER CYBER TEAM( BCA - X666X )
 # Apa Liat Liat ? Mau Recode ? >_<
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
@@ -718,6 +718,6 @@ if __name__ == '__main__':
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
 	sleep(2)
 	os.system('clear')
-	os.system('xdg-open https://www.youtube.com/channel/UCsX7NpPEK8a0T2MCJJQ4o7w')
+	os.system('xdg-open https://youtube.com/channel/UCmuNYQZM9crdJ59kUP9khIg')
 	sleep(7)
 	Spam()
