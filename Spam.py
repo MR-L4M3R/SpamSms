@@ -691,7 +691,7 @@ try:
 				sys.exit()
 		
 		elif PilihTools == '9':
-			os.system('xdg-open http://wa.me/+1(507)5790039?text=Hallo')
+			os.system('xdg-open http://wa.me/+15075790039?text=Hallo')
 		
 		elif PilihTools == 'X' or PilihTools == 'x':
 			print
